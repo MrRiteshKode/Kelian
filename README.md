@@ -9,6 +9,9 @@ Functinality :-
 6. Perform txt lookup on target host.
 7. Perform banner grabbing and port scanning recon on target host.
 
+Usage :-
+1. First, pip install -r requirements.txt
+2. kelian.py [url] [-flags]
 
 ---------------------------------------------------------------------------------------------------
 THANK YOU :)
