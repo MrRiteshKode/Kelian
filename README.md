@@ -11,7 +11,10 @@ Functinality :-
 
 Usage :-
 1. First, pip install -r requirements.txt
-2. kelian.py [url] [-flags]
+2. Help, kelian.py -h
+3. kelian.py [url] [-flags], ex- kelian.py www.google.com -w
+4. for multiple flags, kelian.py www.google.com -wcm
+5. You can use multiple flags that given above.
 
 ---------------------------------------------------------------------------------------------------
 THANK YOU :)
